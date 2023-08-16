@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gopagoni Sreya</h1>
-<h3 align="center">A dedicated Computer Science and Engineering (CSE) student with a passion for creating innovative solutions that shape the future</h3>
+<h5 align="center">A dedicated Computer Science and Engineering (CSE) student with a passion for creating innovative solutions that shape the future</h5>
 
 - 🔭 **I am currently a Fourth-year undergraduate at IIT Ropar, India**
 - ⚡ **MITACS GRI'23, Research Intern at Dalhousie University, Canada**
