@@ -1,5 +1,13 @@
 <h1 align="center">Hi 👋, I'm Gopagoni Sreya</h1>
-<h3>A dedicated Computer Science and Engineering (CSE) student with a passion for creating innovative solutions that shape the future</h3>
+<h3 align="center">A dedicated Computer Science and Engineering (CSE) student with a passion for creating innovative solutions that shape the future</h3>
+
+- 🔭 **I am currently a Fourth year undergraduate at IIT Ropar, India 🇮🇳**
+
+- 🌱 **I am proficient in C, C++, HTML, CSS, JavaScript, React.js, PostgreSQL and Currently learning Data science and DNN.**
+
+- 🤝 **Excited about the opportunity to work together on exceptional projects.**
+
+- ⚡ **MITACS GRI'23,Research Intern at Dalhousie University, Canada 🇨🇦**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -13,4 +21,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sreya0603&show_icons=true&locale=en" alt="sreya0603" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sreya0603&" alt="sreya0603" /></p>
-
