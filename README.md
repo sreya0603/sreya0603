@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gopagoni Sreya</h1>
-<h3 align="center">A dedicated Computer Science and Engineering (CSE) student with a passion for creating innovative solutions that shape the future</h3>
+<h3>A dedicated Computer Science and Engineering (CSE) student with a passion for creating innovative solutions that shape the future</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
