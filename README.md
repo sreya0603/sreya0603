@@ -1,5 +1,5 @@
-<h1 style="font-family:Lucida Handwriting">Hi 👋, I'm Gopagoni Sreya</h1>
-<h5>A dedicated Computer Science and Engineering (CSE) student with a passion for creating innovative solutions that shape the future.</h5>
+<h1>Hi 👋, I'm Gopagoni Sreya</h1>
+<h5><i>A dedicated Computer Science and Engineering (CSE) student with a passion for creating innovative solutions that shape the future.</i></h5>
 
 <ul>
   <li> 🔭 I am currently a Fourth-year undergraduate at IIT Ropar, India.</li>
