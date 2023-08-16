@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Gopagoni Sreya</h1>
 <h5 align="center">A dedicated Computer Science and Engineering (CSE) student with a passion for creating innovative solutions that shape the future.</h5>
 <h5>
-- 🔭 **I am currently a Fourth-year undergraduate at IIT Ropar, India**
-  <br/>
-- ⚡ **MITACS GRI'23, Research Intern at Dalhousie University, Canada**
-- 🌱 **I am proficient in C, C++, HTML, CSS, JavaScript, React.js, PostgreSQL and learning Data science and DNN.**
-- 🤝 **Excited about the opportunity to work together on exceptional projects.**
+- 🔭 I am currently a Fourth-year undergraduate at IIT Ropar, India   <br/>
+- ⚡ MITACS GRI'23, Research Intern at Dalhousie University, Canada <br/>
+- 🌱 I am proficient in C, C++, HTML, CSS, JavaScript, React.js, and PostgreSQL and learning Data science and DNN.<br/>
+- 🤝 Excited about the opportunity to work together on exceptional projects.
 </h5>
 
 
