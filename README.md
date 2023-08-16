@@ -1,3 +1,6 @@
+
+
+<img align="center" src="https://github.com/sreya0603/sreya0603/assets/92143540/6ac0db3e-218a-4d69-89bc-e06cfa15770b" alt="develop" height="230" width="340" />
 <h1>Hi 👋, I'm Gopagoni Sreya</h1>
 <h5><i>A dedicated Computer Science and Engineering (CSE) student with a passion for creating innovative solutions that shape the future.</i></h5>
 
@@ -9,13 +12,11 @@
 </ul>
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
-  <a href="https://www.linkedin.com/in/gopagoni-sreya-443057208/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
-  </a>
-  <a href="mailto:sreyagopagoni@gmail.com">
-    <img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="mail" height="30" width="40"/>
-  </a>
+<a href="https://www.linkedin.com/in/gopagoni-sreya-443057208/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="https://dev.to/sreya0603" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sreya0603" height="30" width="40" /></a>
+<a href="mailto:sreyagopagoni@gmail.com"><img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="mail" height="40" width="40"/></a>
 </p>
 
 
