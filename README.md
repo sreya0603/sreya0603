@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Gopagoni Sreya</h1>
+<h1>Hi 👋, <h1 font-family: "Courier >I'm Gopagoni Sreya</h1></h1>
 <h5>A dedicated Computer Science and Engineering (CSE) student with a passion for creating innovative solutions that shape the future.</h5>
 
 <ul>
