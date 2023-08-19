@@ -1,6 +1,6 @@
 <p align="center"><img  src="https://github.com/sreya0603/sreya0603/assets/92143540/3920d7a3-2e0a-4d55-9822-5ce4ae740d09" alt="develop" height="300" width="540" /></p>
 <h1 align="center">Hi 👋, I'm Gopagoni Sreya</h1>
-<h5><i>A dedicated Computer Science and Engineering (CSE) student with a passion for creating innovative solutions that shape the future.</i></h5>
+<h5><i>A dedicated Computer Science and Engineering (CSE) student with a passion for creating innovative solutions that shape the future and a big fan of Art and Technology .</i></h5>
 
 <ul>
   <li>🔭 I am currently a Fourth-year undergraduate at IIT Ropar, India.</li>
