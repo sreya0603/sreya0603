@@ -4,7 +4,7 @@
 
 <ul>
   <li>🔭 I am currently a Fourth-year undergraduate at IIT Ropar, India.</li>
-  <li>⚡ MITACS GRI'23, Research Intern at Dalhousie University, Canada.</li>
+  <li>⚡ MITACS GRA'23, Research Intern at Dalhousie University, Canada.</li>
   <li>🌱 I am proficient in C, C++, HTML, CSS, JavaScript, React.js, and PostgreSQL and learning Data science and DNN.</li>
   <li>🔖 I possess expertise in the realms of web development and software engineering.</li>
   <li> 🤝 Excited about the opportunity to work together on exceptional projects.</li>
