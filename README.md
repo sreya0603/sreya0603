@@ -3,7 +3,7 @@
 <h5><i>A dedicated Computer Science and Engineering (CSE) student with a passion for creating innovative solutions that shape the future and a big fan of Art and Technology .</i></h5>
 
 <ul>
-  <li>🔭 I am 2024 graduate from IIT Ropar, India.</li>
+  <li>🔭 I am 2024 CSE graduate from IIT Ropar, India.</li>
   <li>⚡ MITACS GRA'23, Research Intern at Dalhousie University, Canada.</li>
   <li>🌱 I am proficient in C, C++, HTML, CSS, JavaScript, React.js, and PostgreSQL and learning Data science and DNN.</li>
   <li>🔖 I possess expertise in the realms of web development and software engineering.</li>
